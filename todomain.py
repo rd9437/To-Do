@@ -76,7 +76,7 @@ def edit_task(list1):
 # Main function
 def main():
     st.title("TaskPal")
-    st.subheader("To-Do List")
+    st.text("To-Do List")
     st.sidebar.title("Menu")
     
     # Initialize the list to store tasks
