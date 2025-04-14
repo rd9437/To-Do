@@ -1,6 +1,8 @@
 # TaskPal To-Do
 
-https://todotask.streamlit.app/
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://todotask.streamlit.app/)
+
+---
 
 TaskPal is a minimalist task manager designed to help you stay organized and boost productivity. Whether you're juggling personal errands, work tasks, or project deadlines, TaskPal provides a simple and intuitive interface to keep track of your to-do list effectively.
 
